@@ -42,5 +42,8 @@ transactions em  banco
      https://pynative.com/python-postgresql-transaction-management-using-commit-and-rollback/
 
 
+estudos
+
+
 
      
