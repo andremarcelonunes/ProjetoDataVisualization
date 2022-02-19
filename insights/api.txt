@@ -1,0 +1,1 @@
+https://weather.visualcrossing.comVisualCrossingWebServicesrestservicestimelineZeulenroda%2C%20GER2019-06-13T0200002019-06-13T020000unitGroup=metric&key=D7RCXA3F55PTG7PNYDPL5K3YB&contentType=json

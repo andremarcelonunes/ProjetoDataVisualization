@@ -45,5 +45,5 @@ transactions em  banco
 estudos
 
 
-
+<div class="profileBasicInfo_statValue__IXJTW">20 NOV 1996</div>
      
