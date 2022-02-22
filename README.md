@@ -36,7 +36,7 @@ So, we know that the climate conditions affect results as biologic conditions, o
 
 ## OUTPUTS
 
-https://public.tableau.com/app/profile/andre.marcelo.da.cruz.nunes/viz/Livro1_16454034118450/100meters?publish=yes
+https://public.tableau.com/app/profile/andre.marcelo.da.cruz.nunes/viz/Livro1_16454034118450/100meters
 
 
 
